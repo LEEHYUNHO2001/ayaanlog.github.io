@@ -9,13 +9,13 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `ayaanlog (Frontend Developer)`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Ayaan`,
+      summary: `아얀의 블로그 입니다.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://github.com/LEEHYUNHO2001/ayaanlog.github.io`,
     social: {
       twitter: `kylemathews`,
     },
