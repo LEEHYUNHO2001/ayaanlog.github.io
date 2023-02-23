@@ -8,9 +8,12 @@
     "url": "https://github.com/LEEHYUNHO2001/ayaanlog.github.io/issues"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.14",
     "gatsby": "^5.6.0",
+    "gatsby-plugin-emotion": "^8.7.0",
     "gatsby-plugin-feed": "^5.6.0",
     "gatsby-plugin-image": "^3.6.0",
     "gatsby-plugin-manifest": "^5.6.0",

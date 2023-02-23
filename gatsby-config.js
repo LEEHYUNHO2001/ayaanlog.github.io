@@ -8,8 +8,9 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  plugins: [`gatsby-plugin-emotion`],
   siteMetadata: {
-    title: `ayaanlog (Frontend Developer)`,
+    title: `ayaanlog`,
     author: {
       name: `Ayaan`,
       summary: `아얀의 블로그 입니다.`,
@@ -17,7 +18,8 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://github.com/LEEHYUNHO2001/ayaanlog.github.io`,
     social: {
-      twitter: `kylemathews`,
+      github: `https://github.com/LEEHYUNHO2001`,
+      velog: `https://velog.io/@leehyunho2001`,
     },
   },
   plugins: [
